@@ -1,0 +1,42 @@
+[
+{
+    "id":"1",
+    "name":"Biscuits",
+    "price":"450",
+    "expDate":"01/05/2022"
+  },
+  {
+    "id":"2",
+    "name":"Soap",
+    "price":"50",
+    "expDate":"01/05/2024"
+  },
+  {
+    "id":"3",
+    "name":"Ice cream",
+    "price":"505",
+    "expDate":"01/05/2024",
+    "tax":"30.50"
+  },
+  {
+    "id":"4",
+    "name":"Sprite",
+    "price":"205",
+    "expDate":"01/05/2023",
+    "tax":"22.50"
+  },
+  {
+    "id":"5",
+    "name":"Washing powder",
+    "price":"420",
+    "expDate":"20/05/2022",
+    "tax":"10.50"
+  },
+  {
+    "id":"6",
+    "name":"Curd",
+    "price":"320",
+    "expDate":"01/12/2021",
+    "tax":"40.50"
+  }
+  ]
